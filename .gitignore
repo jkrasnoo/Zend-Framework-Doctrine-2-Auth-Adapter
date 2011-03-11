@@ -1,0 +1,9 @@
+.zfproject.xml
+nbproject/
+sess_*
+*~
+library/Doctrine
+library/Symfony
+library/Bisna
+library/Zend
+library/ZendX
